@@ -19,10 +19,6 @@ function findRepeat(list) {
 
   while(repeat === null) {
     for (let i of list) {
-      if (isNaN(i)) {
-        continue;
-      }
-
       current += i;
       if (freqs[current]) {
         repeat = current;
