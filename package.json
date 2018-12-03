@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-cod-2018",
+  "version": "1.0.0",
+  "description": "Advent of Code 2018 Answers",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Jubenville <ioncache@gmail.com>",
+  "license": "MIT"
+}
